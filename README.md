@@ -1,7 +1,7 @@
 # Simple_Quiz_App
 I created a simple quiz app while learning Flutter. The app allows users to test their basic Flutter knowledge by answering multiple-choice questions related to app development. After completing the quiz, users can analyze their results.
 
-##ScreenShots
+## ScreenShots
 
 ![WhatsApp Image 2023-05-24 at 11 16 11 PM](https://github.com/Aditya062003/Simple_Quiz_App/assets/102402625/68665561-909e-4fa7-b6e1-0361fb3a0440)
 ![Uploading WhatsApp Image 2023-05-24 at 11.16.12 PM (1).jpeg…]()
